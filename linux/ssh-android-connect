@@ -1,0 +1,1 @@
+ssh -oHostKeyAlgorithms=+ssh-dss -p 2222 ssh@192.168.0.101
